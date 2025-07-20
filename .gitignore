@@ -13,3 +13,4 @@ data/proxies.txt
 /src/utils/dashboard
 /src/utils/config_interface
 data/private_keys.txt
+.env
